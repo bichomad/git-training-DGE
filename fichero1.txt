@@ -1,2 +1,1 @@
-Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras lineas no tienen sentido ahora, DGE
-Modificado desde IntelliJ DGE.
+Ahora estamos en la primera linea del fichero pero en la rama nueva feature/dge
